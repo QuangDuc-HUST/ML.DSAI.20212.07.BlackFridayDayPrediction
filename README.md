@@ -17,6 +17,7 @@
 1. For `Google Colab Version`
 
 Link Google Colab: 
+https://colab.research.google.com/github/QuangDuc-HUST/ML.DSAI.20212.07.BlackFridayDayPrediction/blob/main/src/GoogleColabVersion_MachineLearning_Code_Group07.ipynb
 
 
 2. For `Jupyter Notebook Version` running on your computer. You need to follow the instruction for installation below.
