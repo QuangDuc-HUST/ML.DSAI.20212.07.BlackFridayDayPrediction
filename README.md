@@ -16,7 +16,8 @@
  * *We highly recommend you use Google Colab Version because of its built-in libraries and our dataset is also large.*
 1. For `Google Colab Version`
 
-\Link Google Colab: 
+
+    Link Google Colab: 
 https://colab.research.google.com/github/QuangDuc-HUST/ML.DSAI.20212.07.BlackFridayDayPrediction/blob/main/src/GoogleColabVersion_MachineLearning_Code_Group07.ipynb
 
 
@@ -24,7 +25,8 @@ https://colab.research.google.com/github/QuangDuc-HUST/ML.DSAI.20212.07.BlackFri
 
 ### Installation
 
-1. `Miniconda3` environment \
+1. `Miniconda3` environment 
+
     Link : https://docs.conda.io/en/latest/miniconda.html
 
 2.  `xgboost` libraries 
